@@ -1,0 +1,20 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+/* input.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* Agrega tus estilos personalizados aquí */
+
+/* output.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/* Agrega tus estilos personalizados aquí */
